@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **React, typeScript**
 
 - 📫 How to reach me **tommyk257@gmail.com**
+  
+- 📫 Find me here https://www.linkedin.com/in/tom-kennedy-383120290/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
